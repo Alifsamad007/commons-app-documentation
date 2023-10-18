@@ -1,6 +1,6 @@
 # On Device Storage
-
-Account credentials are encapsulated in an account provider. Currently only one Wikimedia Commons account is supported at a time. (Question: what is the actual storage for credentials?)
+[[Android]]
+Account credentials are encapsulated in an account provider. Currently only one [[Wikimedia Commons]] account is supported at a time. (Question: what is the actual storage for credentials?)
 
 Preferences are stored in Android's SharedPreferences.
 
