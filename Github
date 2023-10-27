@@ -4,8 +4,8 @@ This holds information on the Wikimedia Commons Android app.
 
 ## 👤 User Documentation
 
-- [How to install and use the app](https://commons-app.github.io/index.html#usage)
-- [Getting app logs from Android Studio](https://commons-app.github.io/docs.html#getting-app-logs-from-android-studio)
+- [How to install and use the app](https://commons-app.github.com/index.html#usage)
+- [Getting app logs from Android Studio](https://commons-app.github.com/docs.html#getting-app-logs-from-android-studio)
 
 ## ❤️ Contributor Documentation
 
@@ -47,12 +47,12 @@ Documentation about the App itself, not the implementation:
 
 ### 🧪 API testing:
 
-- [Fuzzy category search](Fuzzy-category-search.md)
+- (category search](-category-search.md)
 - [Location based category search](Location-based-category-search.md)
 
 ### 🚀 Publish
 
-- [Google Play store listing](Google-Play-store-listing.md)
+- [Google Play store](Google-Play-store-listing.md)
 
 <!-- This is copied across README.md, android/README.md - please keep them in sync! -->
 ## 🙌 Improving the docs
