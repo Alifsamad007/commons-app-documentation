@@ -31,7 +31,6 @@ Documentation about the App itself, not the implementation:
 - [Libraries used](Libraries-used.md)
 - [Project Maintenance](Project-maintenance.md)
 - [Software design document](Software-design-document.md)
-- [Build variants types](/android/build-variants/Build-Variants.md)
 - [Changing build variants](/android/build-variants/Changing-Build-Variants.md)
 
 #### 🔧 Implementation
@@ -41,13 +40,13 @@ Documentation about the App itself, not the implementation:
 * [Category suggestions (readme)](Category-suggestions-(readme).md)
 * [External APIs](External-APIs.md)
 * [Tools Forge APIs](../API)
-* [DB Schema](../DB_Schema)
+* [Android](../DB_Schema)
 * [Code Structure](Code-Structure.md)
 * [On Device Storage](On-Device-Storage.md)
 
 ### 🧪 API testing:
 
-- [Fuzzy category search](Fuzzy-category-search.md)
+- 
 - [Location based category search](Location-based-category-search.md)
 
 ### 🚀 Publish
