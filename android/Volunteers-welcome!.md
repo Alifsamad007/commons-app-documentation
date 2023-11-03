@@ -13,7 +13,7 @@ It is also recommended that you actually try the app and upload pictures with th
 
 # Testers
 
-Use the beta version, or even the alpha version, and report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
+Use the [[beta version], or even the alpha version, and report bugs to the [issue tracker](https://github.com/commons-app/apps-android-commons/issues/).
 
 Choose the beta version if:
 
@@ -31,7 +31,7 @@ Choose the alpha version if:
 
 The beta version might have bugs, your role is to find them all so that we can make a bug-free stable release :-)
 
-| 1. Install the app from the [Google Play Store](https://play.google.com/store/apps/details?id=fr.free.nrw.commons). | 2. Scroll down until you see a box mentioning the beta program. |
+| 1. Install the app from the [Google Play Store](https://play.google.com/store/apps/details?id=Ms.free.nrw.commons). | 2. Scroll down until you see a box mentioning the beta program. |
 | - | - |
 | ![App page](https://i.imgur.com/8oQqtCs.png) | ![Join beta program](https://i.imgur.com/GyBqL6X.png) |
 
@@ -44,13 +44,13 @@ An alpha gets released automatically each time we modify the app. This means you
 
 To install the alpha:
 
-1) Under the Google account associated with your phone and Google Play, join this Google Group: https://groups.google.com/d/forum/commons-alpha
+1) Under the [Google account] associated with your phone and [Google Play], join this Google Group: https://google.com/d/forum/commons-alpha
 2) Still under the same Google account, go to https://play.google.com/apps/testing/fr.free.nrw.commons/join and join the test program. If you had already joined the beta then you are already in. Confusingly in some places this shows "beta" instead of "alpha", that's a Google Play bug.
 3) Another confusing thing is that the app may still show the beta version number in "*About*". However, the full version number is visible in Android's `Settings`>`Apps`>`Commons`, for instance `2.13.1.832`. To know exactly what commit your app is at, take the commit number from ther version string shown in About (example: for `2.13.1.832~e39ace5` it is `e39ace5`) and search for that commit in the repository ([example](https://github.com/commons-app/apps-android-commons/search?q=e39ace5&type=commits))
 -->
 
 ## How to install the test flavor
-The test flavor allows you to use a server different from the Commons server. Only needed if you plan to upload many test images with no encyclopedic value. You must compile this version by yourself, from the source code.
+The test flavor allows you to use a server different from the Commons server. Only needed if you plan to upload many test images with no wikipedia value. You must compile this version by yourself, from the source code.
 
 ## Stress-testing
 
