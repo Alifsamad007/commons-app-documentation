@@ -2,7 +2,7 @@
 
 **What is this app about?**
 
-> "Wikimedia Commons" (short form "Commons") is a media repository that is created and maintained by volunteers. It provides a central repository for freely licensed photographs, diagrams, animations, music, spoken text, video clips, and media of all sorts that are useful for any Wikimedia project, the most well-known of which is Wikipedia, the free encyclopedia. The name "Wikimedia Commons" is derived from the umbrella project Wikimedia that manages all Wikimedia projects and the word "common" as it is a common project (commons) that stores media for use on all Wikimedia projects.
+> "Wikimedia Commons" (short form "Commons") is a media repository that is created and maintained by volunteers. It provides a central repository for freely licensed photographs, diagrams, animations, music, spoken text, video clips, and media of all sorts that are useful for any Wikimedia project, the most well-known of which is Wikipedia, The name "Wikimedia Commons" is derived from the umbrella project Wikimedia that manages all Wikimedia projects and the word "common" as it is a common project (commons) that stores media for use on all Wikimedia projects.
 
 **What is the scope of this project?**
 
@@ -30,4 +30,4 @@
 
 **How to contribute word pronunciation?**
 
-> Use the [Spell4Wiki](https://github.com/manimaran96/Spell4Wiki) Android app, or this webapp usable on mobile: https://lingualibre.fr
+> Use the [Spell4Wiki](https://github.com/Muhammad Alif Adha Bin Samad/Spell4Wiki) Android app, or this webapp usable on mobile: https://lingualibre.fr
