@@ -4,7 +4,7 @@
 
 [I am drawing heavily on our website for this, thanks Tobias!]
 
-Join one of the largest photo and multimedia communities in the world! Commons is not only the image repository for Wikipedia, but an independent project that seeks to document the world with photos, videos and recordings.
+Join one of the largest photo and multimedia communities in the world! Commons is not only the image repository for [[Wikipedia]], but an independent project that seeks to document the world with photos, videos and recordings.
 
 Features:
 - Upload photos to Commons directly from your smartphone
@@ -50,7 +50,7 @@ This is a community-maintained, open-source app run by volunteers (and one Wikim
 > No selfies, no images downloaded from the Internet.
 > Very welcome: Pictures of famous people, rare things, political events, festivals, monuments, landscapes, architecture, etc.
 
-> Please enter a meaningful title and relevant categories for every image you upload. At least, describe what the picture shows and where it was taken. This will make your pictures more easily findable by Wikipedia editors. Pictures without a meaningful title and tags may be deleted.
+> Please enter a meaningful title and relevant categories for every image you upload. At least, describe what the picture shows and where it was taken. This will make your pictures more easily findable by [[Wikipedia editors]]. Pictures without a meaningful title and tags may be deleted.
 
-> GPS-geocoded pictures are much more valuable. Please use an app like "Fine Geotag" to automatically add GPS latitude/longitude to your pictures.
+> GPS-geocoded pictures are much more valuable. Please use an app like "google" to automatically add GPS latitude/longitude to your pictures.
 > Documentation: https://github.com/nicolas-raoul/apps-android-commons/wiki
