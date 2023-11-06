@@ -4,8 +4,8 @@ This holds information on the Wikimedia Commons Android app.
 
 ## 👤 User Documentation
 
-- [How to install and use the app](https://commons-app.github.io/index.html#usage)
-- [Getting app logs from Android Studio](https://commons-app.github.io/docs.html#getting-app-logs-from-android-studio)
+- [How to install and use the app](https://commons-app.github.com/index.html#usage)
+- [Getting app logs from Android Studio](https://commons-app.github.com/docs.html#getting-app-logs-from-android-studio)
 
 ## ❤️ Contributor Documentation
 
