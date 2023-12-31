@@ -2,7 +2,7 @@
 
 This repository acts as a wiki containing documentation for the Wikimedia Commons apps.
 
-- [📗 Android](android/README.md)
+- [📗 Android](android/CPH2015)
 - [:inbox_tray: API](API)
 - [:books: Database Schema](DB_Schema)
 
