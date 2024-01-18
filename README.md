@@ -1,8 +1,8 @@
 # 📝 Documentation
 
-This repository acts as a wiki containing documentation for the Wikimedia Commons apps.
+This repository acts as a wiki containing documentation for the [Wikimedia Commons] apps.
 
-- [📗 Android](android/CPH2015)
+- [📗 Android](android)
 - [:inbox_tray: API](API)
 - [:books: Database Schema](DB_Schema)
 
